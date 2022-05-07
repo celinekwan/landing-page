@@ -143,3 +143,14 @@ img {
     border-radius: 10px;
     border-color: #e5e7eb;
 }
+.footer {
+    background-color: #1f2937;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text {
+    color: #f9faf8;
+    font-size: 18px;
+}
